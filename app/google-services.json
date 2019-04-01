@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "660538166413",
+    "firebase_url": "https://ridesharing-de28c.firebaseio.com",
+    "project_id": "ridesharing-de28c",
+    "storage_bucket": "ridesharing-de28c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660538166413:android:8e1c0c6a1339b9b7",
+        "android_client_info": {
+          "package_name": "com.example.shimul.ridesharing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660538166413-7l9t1f2bs2484aa7lhb3dq78bh9t3rt4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shimul.ridesharing",
+            "certificate_hash": "61c9ebcab42f7eb2335eb8d80ae68c82d0730134"
+          }
+        },
+        {
+          "client_id": "660538166413-5qujq6nur83i0630t81fkgv5r0q75jlh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_uIAj7Jm24TwSf8mcwcxuouGPhktRV_8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660538166413-5qujq6nur83i0630t81fkgv5r0q75jlh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
